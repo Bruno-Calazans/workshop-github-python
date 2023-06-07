@@ -2,6 +2,8 @@ print()
 name = input('Digite seu nome: ')
 city = input('Digite sua cidade: ')
 gender = input('Digite seu sexo: ')
+age = input('Digite sua idade: ')
+
 print()
 print('Seguem os dados: ')
 print(name,' - ',city,' - ',gender)
